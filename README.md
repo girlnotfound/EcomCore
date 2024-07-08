@@ -40,7 +40,7 @@ To install EcomCore:
 
 [Link to Walk Through Video](https://app.screencastify.com/v3/watch/Q1HNtpZSEf2izyvmu67U)
 
-![Screenshot of EcomCore](./images/Screenshot-EcomCore.png)
+![Screenshot of EcomCore](./images/Ecom-Core-Screenshot.png)
 
 ## Credits
 
